@@ -1,5 +1,5 @@
 # Task 3 - Password Generator
-![Password Screenshot](Password.png)
+![Password Screenshot](password.png)
 ## 📌 Overview
 
 This is a simple **To-Do List** project made for my **CodSoft Python Programming Internship**.
