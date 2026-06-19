@@ -1,5 +1,9 @@
 # Task 3 - Password Generator
+![Password Screenshot](Password.png)
+## 📌 Overview
 
+This is a simple **To-Do List** project made for my **CodSoft Python Programming Internship**.
+It helps users manage daily tasks using a basic Python command-line program.
 ## 📌 Overview
 
 This is a simple **Password Generator** created for my **CodSoft Python Programming Internship**.  
