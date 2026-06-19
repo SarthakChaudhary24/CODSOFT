@@ -1,5 +1,9 @@
 # Task 2 - Calculator
+![Calculator Screenshot](calculator.png)
+## 📌 Overview
 
+This is a simple **To-Do List** project made for my **CodSoft Python Programming Internship**.
+It helps users manage daily tasks using a basic Python command-line program.
 ## 📌 Overview
 
 This is a simple **Calculator** project developed for my **CodSoft Python Programming Internship**.  
